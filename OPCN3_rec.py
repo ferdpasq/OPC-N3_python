@@ -3,7 +3,7 @@
 Created on Mon Mar 18 16:52:30 2019
 
 @author: Daniel Jarvis
-Updated and fixed by: Giacomo Roversi, Ferdinando Pasqualini
+Updated and fixed by: Giacomo Roversi and Ferdinando Pasqualini
 
 OPC N3 record data to a CSV. 
 """
