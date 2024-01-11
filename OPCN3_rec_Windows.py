@@ -2,8 +2,6 @@
 """
 Created on Mon Mar 18 16:52:30 2019
 
-@author: Daniel Jarvis
-Updated and fixed by: Giacomo Roversi, Ferdinando Pasqualini
 
 OPC N3 record data to a CSV. 
 """
@@ -28,10 +26,10 @@ import os.path
 integration=5
 
 # NAMING VARIABLES
-FOLDER='/home/pi/Documents/OPC_script/'
-OPCNAME = "OPCN3"
-OPCPORT= '/dev/ttyACM0'
-LOCATION = "RTV"
+FOLDER='C:\\Users\\Utente\\OneDrive - CNR\\CNR-ISAC\\Strumenti\\Script_acquisizione\\OPC_N3\\'
+OPCNAME = "TestOPC"
+OPCPORT= 'COM3'
+LOCATION = "Lab2"
 wait=1e-06
 #
 # Init OPC for spi connection 
