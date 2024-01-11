@@ -25,7 +25,7 @@ import os.path
 
 
 
-integration=5
+integration=30
 
 # NAMING VARIABLES
 FOLDER='/home/pi/Documents/OPC_script/'
